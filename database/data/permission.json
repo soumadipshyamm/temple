@@ -1,0 +1,187 @@
+{
+    "permissions":[
+        {
+            "name" : "View Dashboard"
+        },
+        {
+            "name" : "Add Student"
+        },
+        {
+            "name" : "Edit Student"
+        },
+        {
+            "name" : "Delete Student"
+        },
+        {
+            "name" : "View Student"
+        },
+        {
+            "name" : "Add Teacher"
+        },
+        {
+            "name" : "Edit Teacher"
+        },
+        {
+            "name" : "Delete Teacher"
+        },
+        {
+            "name" : "View Teacher"
+        },
+        {
+            "name" : "Add Board"
+        },
+        {
+            "name" : "Edit Board"
+        },
+        {
+            "name" : "View Board"
+        },
+        {
+            "name" : "Delete Board"
+        },
+        {
+            "name" : "Add Subject"
+        },
+        {
+            "name" : "Edit Subject"
+        },
+        {
+            "name" : "Delete Subject"
+        },
+        {
+            "name" : "View Subject"
+        },
+        {
+            "name" : "Add Pages"
+        },
+        {
+            "name" : "Edit Pages"
+        },
+        {
+            "name" : "View Pages"
+        },
+        {
+            "name" : "Delete Pages"
+        },
+        {
+            "name" : "Add Chapter"
+        },
+        {
+            "name" : "Edit Chapter"
+        },
+        {
+            "name" : "View Chapter"
+        },
+        {
+            "name" : "Delete Chapter"
+        },
+        {
+            "name" : "Add Video"
+        },
+        {
+            "name" : "Edit Video"
+        },
+        {
+            "name" : "View Video"
+        },
+        {
+            "name" : "Delete Video"
+        },
+        {
+            "name" : "Add Question"
+        },
+        {
+            "name" : "Edit Question"
+        },
+        {
+            "name" : "View Question"
+        },
+        {
+            "name" : "Delete Question"
+        },
+        {
+            "name" : "Add Class"
+        },
+        {
+            "name" : "Edit Class"
+        },
+        {
+            "name" : "View Class"
+        },
+        {
+            "name" : "Delete Class"
+        },
+        {
+            "name" : "Add Answer"
+        },
+        {
+            "name" : "Edit Answer"
+        },
+        {
+            "name" : "View Answer"
+        },
+        {
+            "name" : "Delete Answer"
+        },
+        {
+            "name" : "Add Plan"
+        },
+        {
+            "name" : "Edit Plan"
+        },
+        {
+            "name" : "View Plan"
+        },
+        {
+            "name" : "Delete Plan"
+        },
+        {
+            "name" : "Add Coupon"
+        },
+        {
+            "name" : "Edit Coupon"
+        },
+        {
+            "name" : "View Coupon"
+        },
+        {
+            "name" : "Delete Coupon"
+        },
+        {
+            "name" : "Add Menu"
+        },
+        {
+            "name" : "Edit Menu"
+        },
+        {
+            "name" : "View Menu"
+        },
+        {
+            "name" : "Delete Menu"
+        },
+        {
+            "name" : "Add Blog"
+        },
+        {
+            "name" : "Edit Blog"
+        },
+        {
+            "name" : "View Blog"
+        },
+        {
+            "name" : "Delete Blog"
+        },
+        {
+            "name" : "Add Faq"
+        },
+        {
+            "name" : "Edit Faq"
+        },
+        {
+            "name" : "View Faq"
+        },
+        {
+            "name" : "Delete Faq"
+        }
+    ]
+}

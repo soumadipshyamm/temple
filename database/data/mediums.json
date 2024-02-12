@@ -1,0 +1,14 @@
+{
+    "mediums": [
+        {
+            "name": "Bengali",
+            "local_language": "বাংলা",
+            "is_active": true
+        },
+        {
+            "name": "English",
+            "local_language": "ইংরেজি",
+            "is_active": true
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "packages":[
+        {
+            "name": "Free",
+            "package_type": "free",
+            "is_most_popular": false,
+            "description": "after 1st month free trial",
+            "price":{
+                "price": 0,
+                "duration": 1,
+                "interval": "month"
+            }
+        },
+        {
+            "name": "Silver",
+            "package_type": "paid",
+            "is_most_popular": true,
+            "description": "after 1st month free trial",
+            "price":{
+                "price": 1999,
+                "duration": 3,
+                "interval": "month"
+            }
+        },
+        {
+            "name": "Gold",
+            "package_type": "paid",
+            "is_most_popular": false,
+            "description": "after 1st month free trial",
+            "price":{
+                "price": 2999,
+                "duration": 6,
+                "interval": "month"
+            }
+        },
+        {
+            "name": "Diamond",
+            "package_type": "paid",
+            "is_most_popular": true,
+            "description": "after 1st month free trial",
+            "price":{
+                "price": 3999,
+                "duration": 1,
+                "interval": "year"
+            }
+        }
+    ]
+}
+

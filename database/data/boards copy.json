@@ -1,0 +1,634 @@
+{
+    "boards": [
+        {
+            "name": "BOARD OF INTERMEDIATE EDUCATION",
+            "initial_name":"",
+            "state": "ANDHRA PRADESH",
+            "address": "VIJAYAWADA, D. No. : 48-18-2/A, Nagarjunanagar,Opp. NTR Health University,Vijayawada-8,FAX: 0866-2970056",
+            "website": "www.bieap.gov.in",
+            "email": "bie.andhra@ap.gov.in",
+            "is_active" : true
+        },
+        {
+            "name": "BOARD OF SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "ANDHRA PRADESH",
+            "address": "No. 20 -124, Beside SPNRCH High School,Opp. Andhra Hospitals, Gollapudi, Vijayawada – 521225",
+            "website": "www.bseap.org",
+            "email": "dir_govexams@yahoo.com",
+            "is_active" : true
+        },
+        {
+            "name": "A.P. OPEN SCHOOL SOCIETY",
+            "initial_name":"",
+            "state": "ANDHRA PRADESH",
+            "address": "Opp. L.B. Stadium ‘E’ Gate,S.C.E.R.T Campus, III Floor Basheerbagh, Hyderabad",
+            "website": "www.apopenschool.org",
+            "email": "",
+            "is_active" : true
+        },
+        {
+            "name": "ASSAM HIGHER SECONDARY EDUCATION COUNCIL",
+            "initial_name":"",
+            "state": "ASSAM",
+            "address": "Bamunimaidam, Guwahati-781 021 Fax:. 0361-2653498 PBX No. 0361-2652627",
+            "website": "www.ahsec.nic.in",
+            "email": "ahsec1@yahoo.com",
+            "is_active" : true
+        },
+        {
+            "name": "BOARD OF SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "ASSAM",
+            "address": "Bamunimaidam, Guwahati-781021,Fax:0361-2550939",
+            "website": "www.sebaonline.org",
+            "email": "",
+            "is_active" : true
+        },
+        {
+            "name": "KUMAR BHASKAR VARMA SANSKRIT AND ANCIENT STUDIES UNIVERSITY(Formerly ASSAM SANSKRIT   BOARD)",
+            "initial_name":"",
+            "state": "ASSAM",
+            "address": "Kahilipara, Guwahati- 19,Fax: 0361 -2382286",
+            "website": "www.kbvsasun.ac.in",
+            "email": "",
+            "is_active" : true
+        },
+        {
+            "name": "STATE MADRASSA EDUCATION BOARD",
+            "initial_name":"",
+            "state": "ASSAM",
+            "address": "Office of the Director of Madrassa Education & Secretary, State Madrassa Education Board, Assam,Kahilipara, Guwahati- 781019",
+            "website": "www.smeb-assam.in",
+            "email": "",
+            "is_active" : true
+        },
+        {
+            "name": "ALIGARH MUSLIM UNIVERSITY BOARD OF SECONDARY & SR. SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "",
+            "address": "",
+            "website": "www.amu.ac.in",
+            "email": "",
+            "is_active" : true
+        },
+        {
+            "name": "BIHAR SCHOOL EXAMINATION BOARD",
+            "initial_name":"",
+            "state": "BIHAR",
+            "address": "Budh Marg,Patna-800 001,FAX : 0612-2264775",
+            "website": "www.biharboard.net.in",
+            "email": "info@biharboardnet.in",
+            "is_active" : true
+        },
+        {
+            "name": "BIHAR BOARD OF OPEN SCHOOLING & EXAMINATION",
+            "initial_name":"",
+            "state": "BIHAR",
+            "address": "Budh Marg , Patna-800001",
+            "website": "www.bbose.org.in",
+            "email": "info@bbose.org.in",
+            "is_active" : true
+        },
+        {
+            "name": "BIHAR STATE MADRASA EDUCATION BOARD",
+            "initial_name":"",
+            "state": "BIHAR",
+            "address": "5, Vidyapati Marg,Patana-800 001, Fax :- 0612-2232459",
+            "website": "www.bsmeb.org",
+            "email": "info@bsmeb.org",
+            "is_active" : true
+        },
+        {
+            "name": "BIHAR SANSKRIT SHIKSHA BOARD",
+            "initial_name":"",
+            "state": "BIHAR",
+            "address": "Patna-800001",
+            "website": "www.bssbpatna.ac",
+            "email": "info@bssbpatna.ac",
+            "is_active" : true
+        },
+        {
+            "name": "BANASTHALI VIDYAPITH",
+            "initial_name":"",
+            "state": "RAJASTHAN",
+            "address": "P.O. Banasthali Vidyapith-304022,EPABX: (01438) 228341-52; Fax: (01438)-228365, 228649",
+            "website": "www.banasthali.org",
+            "email": "info@banasthali.ac.in",
+            "is_active" : true
+        },
+        {
+            "name": "CENTRAL BOARD OF SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "DELHI",
+            "address": "2, Community Centre, Shiksha Kendra, Preet Vihar, Vikas Marg, Delhi-110092",
+            "website": "www.cbse.nic.in",
+            "email": "info.cbse@gov.in",
+            "is_active" : true
+        },
+        {
+            "name": "CHHATISGARH BOARD OF SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "CHHATISGARH",
+            "address": "Pension Bada, Raipur- 492001, Fax : 0771-2424094, 2429385",
+            "website": "www.cgbse.org",
+            "email": "ds.cgbse@rediffmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "CHHATISGARH STATE OPEN SCHOOL",
+            "initial_name":"",
+            "state": "CHHATISGARH",
+            "address": "Besides UCO Bank, Pension Bada, Raipur – 492001 (C.G),Tel.: 0771-6002018, 6002017 Fax no. -0771-4061710",
+            "website": "www.csbraipur.org",
+            "email": "",
+            "is_active" : true
+        },
+        {
+            "name": "CHHATTISGARH SANSKRIT BOARD",
+            "initial_name":"",
+            "state": "CHHATISGARH",
+            "address": "New Rajendra Nagar, Near Water Tank, Chattisgarh, Raipur-492001 Fax : 0771- 4001733",
+            "website": "www.cgsos.co.in",
+            "email": "cgsosraipur@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "CHHATTISGARH MADRASA BOARD",
+            "initial_name":"",
+            "state": "CHHATISGARH",
+            "address": "Old P H.Q. Premise, Near Raj Bhawan (C.G.),Raipur- 492001. , Fax: 0771- 4055708",
+            "website": "http://cgmadarsaboards.in/",
+            "email": "madarsacg@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "COUNCIL FOR THE INDIAN SCHOOL CERTIFICATE EXAMINATIONS",
+            "initial_name":"",
+            "state": "New Delhi",
+            "address": "Plot no. 35 & 36, M.B. Road, Sector VI, Pushp Vihar Saket, New Delhi-110001",
+            "website": "www.cisce.org / www.cisceindiaresults.com",
+            "email": "council@cisce.org / results@cisceindiaresults.com",
+            "is_active" : true
+        },
+        {
+            "name": "DELHI BOARD OF SENIOR SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "New Delhi",
+            "address": "NEHRU PLACE , NEW DELHI – 110019",
+            "website": "www.delhiboard.org",
+            "email": "info@delhiboard.org",
+            "is_active" : true
+        },
+        {
+            "name": "DAYALBAGH EDUCATIONAL INSTITUTE (DEEMED UNIVERSITY)",
+            "initial_name":"",
+            "state": "New Delhi",
+            "address": "DAYALBAGH, AGRA-282 110; Fax : 0562-2801226",
+            "website": "www.dei.ac.in",
+            "email": "dbei@sancharnet.in",
+            "is_active" : true
+        },
+        {
+            "name": "DELHI STATE OPEN SCHOOL",
+            "initial_name":"",
+            "state": "New Delhi",
+            "address": "PREET VIHAR, DELHI – 110092 ,",
+            "website": "www.dsos.co.in",
+            "email": "info@dsos.co.in",
+            "is_active" : true
+        },
+        {
+            "name": "ICSE BOARD ( INDIAN COUNCIL OF SECONDARY EDUCATION / INDIAN SCHOOL CERTIFICATE EXAMINATION)",
+            "initial_name":"",
+            "state": "New Delhi",
+            "address": "Pushp Vihar Saket, New Delhi-110001",
+            "website": "www.icseindia.in",
+            "email": "infoicseindia@gmail.com / info@icseindia.in",
+            "is_active" : true
+        },
+        {
+            "name": "GOA BOARD OF SECONDARY AND HIGHER SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "GOA",
+            "address": "Alto Betim, Berdez Goa-403521 Fax : 0832-2414289 Tel: 0832-2417593",
+            "website": "www.gbshse.gov.in",
+            "email": "chairman-gbshse.goa@nic.in / secgbshse.goa@nic.in",
+            "is_active" : true
+        },
+        {
+            "name": "GUJARAT SECONDARY AND HIGHER SECONDARY EDUCATION BOARD",
+            "initial_name":"",
+            "state": "GUJARAT",
+            "address": "Sector 10/B Near Old Sachivalaya, Gandhinagar- 382010,Phone No: 079- 23220538, FAX: 23253828",
+            "website": "www.gseb.org",
+            "email": "gshseb_gnr@yahoo.com",
+            "is_active" : true
+        },
+        {
+            "name": "BOARD OF SCHOOL EDUCATION HARYANA",
+            "initial_name":"",
+            "state": "HARYANA",
+            "address": "Hansi Road, Bhiwani-127021 EPBX No – 01664-244171-76 Fax: 01664-241611",
+            "website": "www.bseh.org.in",
+            "email": "adew@hbse.org.in",
+            "is_active" : true
+        },
+        {
+            "name": "Gurukula Kangri Vishwavidyalaya (Deemed to be University)",
+            "initial_name":"",
+            "state": "UTTAR PRADESH",
+            "address": "Haridwar -249404 , Post Office – Gurukula Kangri",
+            "website": "www.gkv.ac.in",
+            "email": "",
+            "is_active" : true
+        },
+        {
+            "name": "H. P. BOARD OF SCHOOL EDUCATION",
+            "initial_name":"",
+            "state": "HIMACHAL PRADESH",
+            "address": "Gayana Lok Parisar, Civil Lines, Dharamsala, Kangra(H.P) 176213 EPABX-229033-229037; Fax : 01892-222817 to 2225419",
+            "website": "www.hpbose.org",
+            "email": "hpbose2011@ngmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "The J & K STATE BOARD OF SCHOOL EDUCATION",
+            "initial_name":"",
+            "state": "JAMMU & KASHMIR",
+            "address": "Rehari Colony, Jammu-180005 (Nov to Apr) Bemina, Bye Pass, Srinagar-190010 (May to Oct) PBX: 0194-2491179 (Srinagar) (PBX: 0191-2583494 (Jammu)",
+            "website": "www.jkbose.co.in",
+            "email": "",
+            "is_active" : true
+        },
+        {
+            "name": "JAMMU AND KASHMIR STATE OPEN SCHOOL",
+            "initial_name":"",
+            "state": "JAMMU & KASHMIR",
+            "address": "Jammu-180001 (Nov to Apr),Srinagar-190010 (May to Oct)",
+            "website": "www.jksos.co.in",
+            "email": "info@jksos.co.in",
+            "is_active" : true
+        },
+        {
+            "name": "JHARKHAND ACADEMIC COUNCIL",
+            "initial_name":"",
+            "state": "JHARKHAND",
+            "address": "Gyandeep Campus, Bargawan,Namkum, Ranchi-834010,Tel.: 0651-6453342-45, Fax : 0651-2261999",
+            "website": "www.pue.kar.nic.in",
+            "email": "commissioner.pue@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "KARNATAKA SECONDARY EDUCATION, EXAMINATION BOARD",
+            "initial_name":"",
+            "state": "KARNATAKA",
+            "address": "6TH Cross, Malleswaram, Bangalore-560003. Fax: 080-23347670",
+            "website": "www.kseeb.kar.nic.in",
+            "email": "dpikseeb@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "KERALA BOARD OF PUBLIC EXAMINATION",
+            "initial_name":"",
+            "state": "KERALA",
+            "address": "PAREEKSHA BHAWAN, POOJAPURA, Thiruvananthapuram – 695012,Grams: Secretary Examination Thiruvananthapuram, KERALA",
+            "website": "www.kbpe.org",
+            "email": "",
+            "is_active" : true
+        },
+        {
+            "name": "KERALA BOARD OF HIGHER SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "KERALA",
+            "address": "Housing Board Buildings, Santhi Nagar Thiruvananthapuram-695001,Fax : 0471-2320714,2338735",
+            "website": "dhsekerala.gov.in",
+            "email": "jdexamdhse@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "BOARD OF VOCATIONAL HIGHER SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "KERALA",
+            "address": "Housing Board Buildings, Thiruvananthapuram – 695001 0471-2325318, Fax: 0471-2325323",
+            "website": "www.vhse.kerala.gov.in",
+            "email": "vhsedepartment@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "MAHARASHTRA STATE BOARD OF SECONDARY AND HIGHER SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "MAHARASHTRA",
+            "address": "No. 832 A, Final Plot No. 178, 179 Near Balchitravani, Behind Agharkar Reserach Institue, Bhamburda, Shivajinagar, Pune-411004 Grams : MAHABOSEC PUNE, Fax : 020-25705122",
+            "website": "www.msbshse.ac.in",
+            "email": "chairman@msbshse.ac.in / secretary@msbshse.ac.in",
+            "is_active" : true
+        },
+        {
+            "name": "BOARD OF SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "MADHYA PRADESH",
+            "address": "Shivaji Nagar Bhopal-462011",
+            "website": "mpbse.nic.in",
+            "email": "mpbse@mp.nic.in",
+            "is_active" : true
+        },
+        {
+            "name": "M.P. STATE OPEN SCHOOL EDUCATION BOARD",
+            "initial_name":"",
+            "state": "MADHYA PRADESH",
+            "address": "School Education Department Govt. of M.P.,Shivaji Nagar, Bhopal- 462011 . (M. P.), Ph. 0755 – 2671066 Fax: 2552106",
+            "website": "www.mpsos.nic.in",
+            "email": "mpsos@rediffmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "M.P. STATE OPEN SCHOOL EDUCATION BOARD",
+            "initial_name":"",
+            "state": "MADHYA PRADESH",
+            "address": "School Education Department Govt. of M.P.,Shivaji Nagar, Bhopal- 462011 . (M. P.), Ph. 0755 – 2671066 Fax: 2552106",
+            "website": "www.mpsos.nic.in",
+            "email": "mpsos@rediffmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "MAHARISHI PATANJALI SANSKRIT SANSTHAN",
+            "initial_name":"",
+            "state": "MADHYA PRADESH",
+            "address": "R-24, Zone -1, M P Nagar, Bhopal, Madhya Pradesh – 462003,Fax: 0755-2576296",
+            "website": "www.mpsb.nic.in",
+            "email": "patanjalisansthan@yahoo.co.in",
+            "is_active" : true
+        },
+        {
+            "name": "BOARD OF SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "MANIPUR",
+            "address": "Babupara, Imphal-795001; Fax: 0385-2450889, 2226770",
+            "website": "www.bsem.nic.in",
+            "email": "mani_board@yahoo.co.in",
+            "is_active" : true
+        },
+        {
+            "name": "COUNCIL OF HIGHER SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "MANIPUR",
+            "address": "Babupara, Imphal-795001,Phone No. 9436203535",
+            "website": "www.cohsem.nic.in",
+            "email": "secy.cohsem-mn@nic.in",
+            "is_active" : true
+        },
+        {
+            "name": "MEGHALAYA BOARD OF SCHOOL EDUCATION",
+            "initial_name":"",
+            "state": "MEGHALAYA",
+            "address": "West Garo Hills, Tura, Meghalaya 794001,Fax: 03651-232874",
+            "website": "www.mbose.in",
+            "email": "mbose_tura@rediffmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "MIZORAM BOARD OF SCHOOL EDUCATION",
+            "initial_name":"",
+            "state": "MIZORAM",
+            "address": "Chaltlang , P.O Ramhlan Aizawl-796012",
+            "website": "www.mbse.edu.in",
+            "email": "mbseoffice@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "NAGALAND BOARD OF SCHOOL EDUCATION",
+            "initial_name":"",
+            "state": "NAGALAND",
+            "address": "Post Box 613, Kohima 797001; Fax 0370- 2260201, 2260502",
+            "website": "www.nbsenagaland.com",
+            "email": "nagaboard@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "NATIONAL INSTITUTE OF RURAL OPEN SCHOOLING",
+            "initial_name":"",
+            "state": "NEW DELHI",
+            "address": "New Delhi",
+            "website": "www.niros.ac",
+            "email": "info@niros.ac",
+            "is_active" : true
+        },
+        {
+            "name": "NATIONAL INSTITUTE OF RURAL OPEN SCHOOLING",
+            "initial_name":"",
+            "state": "NEW DELHI",
+            "address": "New Delhi",
+            "website": "www.niros.ac",
+            "email": "info@niros.ac",
+            "is_active" : true
+        },
+        {
+            "name": "NATIONAL INSTITUTE OF OPEN SCHOOLING",
+            "initial_name":"",
+            "state": "UTTAR PRADESH",
+            "address": "A-24-25, Institutional Area, Phase-8, NOIDA-201309(UP),Dist.-Gautam Budh Nagar(UP); Ph: 0120- 4089858",
+            "website": "www.nios.ac.in / www.nios.ac.in.help",
+            "email": "help@nios.ac.in.help",
+            "is_active" : true
+        },
+        {
+            "name": "COUNCIL OF HIGHER SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "ODISHA",
+            "address": "C-2 Prajnapitha, Samantapur , Bhubaneswar – 751013, Fax : 0674-2300914",
+            "website": "www.chseodisha.nic.in",
+            "email": "chseodisha@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "BOARD OF SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "ODISHA",
+            "address": "Bajrakabati Road, Cuttack-753001",
+            "website": "www.bseodisha.nic.in / www.bseodisha.ac.in",
+            "email": "admin_bseodisha.od@nic.in / info_bseodisha.od@nic.in",
+            "is_active" : true
+        },
+        {
+            "name": "PUNJAB SCHOOL EDUCATION BOARD",
+            "initial_name":"",
+            "state": "PUNJAB",
+            "address": "Vidya Bhawan , SAS Nagar, Phase – 8 , MOhali 160059, Grams : PUNJAB BOARD SAS NAGAR , Fax – 0172 – 5227423 , 424 , 425",
+            "website": "www.pseb.ac.in",
+            "email": "psebmohali@gmail.com / pseb@yahoo.ac.in",
+            "is_active" : true
+        },
+        {
+            "name": "BOARD OF SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "RAJASTHAN",
+            "address": "Jaipur Road, Ajmer 305001 (Rajasthan) PBX-0145-2632866-2632873,Fax : 0145-2227570",
+            "website": "rajeduboard.nic.in",
+            "email": "secy-boser-rj@nic.in",
+            "is_active" : true
+        },
+        {
+            "name": "RAJASTHAN STATE OPEN SCHOOL",
+            "initial_name":"",
+            "state": "RAJASTHAN",
+            "address": "2-2A, Jhalana Doongri Jaipur – 302004 (Rajsthan) Fax. 0141-2705067",
+            "website": "rsosapp.rajasthan.gov.in",
+            "email": "rajasthansos@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "CENTRAL SANSKRIT UNIVERSITY(FORMERLY : RASHTRIYA SANSKRIT SANSTHAN)",
+            "initial_name":"",
+            "state": "New Delhi",
+            "address": "56-57,Institutional Area,Janakpuri,New Delhi-110058,Fax : +91-11-28521948, +91-11-28520976 (Registrar)",
+            "website": "sanskrit.nic.in",
+            "email": "rsks@nda.vsnl.net.in",
+            "is_active" : true
+        },
+        {
+            "name": "STATE BOARD OF SCHOOL EXAMINATIONS(SEC.) & BOARD OF HIGHER SECONDARY EXAMINATIONS",
+            "initial_name":"",
+            "state": "TAMIL NADU",
+            "address": "College Road, Chennai 600006,Fax.: 044-28293889",
+            "website": "www.dge1.tn.nic.in.help / www.tamilnadustateboard.org",
+            "email": "info@tamilnadustateboard.org",
+            "is_active" : true
+        },
+        {
+            "name": "TELANGANA STATE BOARD OF INTERMEDIATE EDUCATION",
+            "initial_name":"",
+            "state": "TELANGANA",
+            "address": "NAMPALLY HYDERABAD-500001",
+            "website": "bie.tg.nic.in",
+            "email": "",
+            "is_active" : true
+        },
+        {
+            "name": "BOARD OF SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "TELANGANA",
+            "address": "CHAPEL ROAD, NAMPALLY,HYDERABAD-500001,fax: 040-23283641",
+            "website": "www.bsetelanganagov.in",
+            "email": "info@bsetelanganagov.in",
+            "is_active" : true
+        },
+        {
+            "name": "TELANGANA OPEN SCHOOL SOCIETY",
+            "initial_name":"",
+            "state": "TELANGANA",
+            "address": "III Floor, Basheerbagh, Hyderabad-500001,Fax No. 040-23299568",
+            "website": "www.telanganaopenschool.org",
+            "email": "dirtoshyd@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "RAJIV GANDHI UNIVERSITY OF KNOWLEDGE TECHNOLOGIES",
+            "initial_name":"",
+            "state": "TELANGANA",
+            "address": "Basar , Nirmal Distt. , Telangana State – 504107",
+            "website": "https://www.rgukt.ac.in/",
+            "email": "",
+            "is_active" : true
+        },
+        {
+            "name": "TRIPURA BOARD OF SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "TRIPURA",
+            "address": "Pandit Nehru Complex (Gurkha Basti),P.O. Kunjaban, Agartala-799006, Tripura West",
+            "website": "tbse.in",
+            "email": "tbse2009@rediff.com",
+            "is_active" : true
+        },
+        {
+            "name": " U.P. BOARD OF HIGH SCHOOL & INTERMEDIATE EDUCATION",
+            "initial_name":"",
+            "state": "UTTAR PRADESH",
+            "address": "Sarojini Naidu Marg Allahabad –211001.Grams:INTERMEDIATE ALLAHABAD,Fax: 0532-2623182 (Allahabad), 0522-2237607 (Lucknow)",
+            "website": "www.upmsp.edu.in",
+            "email": "upmsp@rediffmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "U.P. Board of SEC. SANSKRIT EDUCATION",
+            "initial_name":"",
+            "state": "UTTAR PRADESH",
+            "address": "NEW OFFICE -9 , SAROJANI NAIDU MARG ,PRAYAGRAJ ,UTTAR PRADESH – PIN CODE 211001 , OLD OFFICE : SANSKRIT BHAWAN , 2 SHAMEENA ROAD , LUCKNOW",
+            "website": "www.upsanskritboard.in",
+            "email": "",
+            "is_active" : true
+        },
+        {
+            "name": "BOARD OF SCHOOL EDUCATION UTTARAKHAND",
+            "initial_name":"",
+            "state": "UTTARAKHAND",
+            "address": "Ram Nagar, Nainital-244715 EPABX-05947-254275.Fax: 05947-255021",
+            "website": "www.ubse.uk.gov.in",
+            "email": "eduua@yahoo.co.in / Secyubse@yahoo.com",
+            "is_active" : true
+        },
+        {
+            "name": "UTTRAKHAND SANSKRIT SHIKSHA PARISHAD",
+            "initial_name":"",
+            "state": "UTTARAKHAND",
+            "address": "Gangotari Enclave, Badripur Road, Indrapur Dehradun-248001 (Uttrakhand)",
+            "website": "www.sanskriteducation.uk.gov.in",
+            "email": "ssnuk2011@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "UTTRAKHAND MADRASA EDUCATION BOARD SHIKSHA PARISHAD",
+            "initial_name":"",
+            "state": "UTTARAKHAND",
+            "address": "Minority Welfare Building, B- Block,Shaheed Bhagat Singh Colony,Adhoiwala, Dehradun-248001 (Uttarakhand)",
+            "website": "www.ukmadarsaboard.org.in",
+            "email": "ukmadarsaboard@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "WEST BENGAL BOARD OF SECONDARY EDUCATION",
+            "initial_name":"WBBSE",
+            "state": "WEST BENGAL",
+            "address": "Nivedita Bhawan, Block DJ-8, Sect. II,Salt Lake City, Kolkatta-700091,Fax no. 033- 2321-3812, Telefax: 033 -2321-3812",
+            "website": "www.wbchse.nic.in",
+            "email": "wbbse05@yahoo.co.in / ds.acad.wbbse@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "WEST BENGAL COUNCIL OF HIGHER SECONDARY EDUCATION",
+            "initial_name":"WBCHSE",
+            "state": "WEST BENGAL",
+            "address": "Vidya Sagar Bhavan,9/2,D.J.Block, Sector-II,Salt Lake, Kolkata 700091",
+            "website": "www.wbchse.nic.in",
+            "email": "wbcouncil_hse@vsnl.net.in",
+            "is_active" : true
+        },
+        {
+            "name": "WEST BENGAL BOARD OF MADRASAH EDUCATION",
+            "initial_name":"WBBME",
+            "state": "WEST BENGAL",
+            "address": "Begum Rokaiya Bhavan 19 Haji Md. Mohsin Square, Kolkata – 700016,Fax: 033-22497774/22497773",
+            "website": "www.wbbme.org",
+            "email": "president-wbbme@yahoo.com /  wbcchse@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "THE WEST BENGAL COUNCIL OF RABINDRA OPEN SCHOOLING",
+            "initial_name":"WBCROS",
+            "state": "WEST BENGAL",
+            "address": "Bikash Bhavan (2nd floor, East Block) Bidhannagar, Kolkata- 700091,Tele Fax: 033-23345199, 23213261",
+            "website": "www.twbcros.org",
+            "email": "",
+            "is_active" : true
+        },
+        {
+            "name": "WEST BENGAL STATE COUNCIL OF TECHNICAL & VOCATIONAL EDUCATION & SKILL DEVELOPMENT",
+            "initial_name":"WBSCT&VE&SD",
+            "state": "WEST BENGAL",
+            "address": "Karigori Bhavan, 5th floor, Plot-B/7, Action Area-III, Newtown, Rajarhat, Kolkata-700160",
+            "website": "www.wbscvet.nic.in",
+            "email": "",
+            "is_active" : true
+        }
+    ]
+}

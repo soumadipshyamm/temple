@@ -1,0 +1,31 @@
+{
+    "coupons": [
+        {
+            "code": "ABCD123XYZ",
+            "type": "flat",
+            "discount" : 10.0,
+            "usage_per_user" : 5,
+            "usage_of_coupon" : 5,
+            "is_expired" : false,
+            "is_active" : true
+        },
+        {
+            "code": "GBCV123XDZ",
+            "type": "flat",
+            "discount" : 20.0,
+            "usage_per_user" : 2,
+            "usage_of_coupon" : 3,
+            "is_expired" : false,
+            "is_active" : true
+        },
+        {
+            "code": "KLJC163TRB",
+            "type": "flat",
+            "discount" : 15.0,
+            "usage_per_user" : 5,
+            "usage_of_coupon" : 5,
+            "is_expired" : false,
+            "is_active" : true
+        }
+    ]
+}

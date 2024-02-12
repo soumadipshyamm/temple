@@ -1,0 +1,29 @@
+{
+    "roles":[
+        {
+            "name" : "Super Admin",
+            "short_code" : "SAD",
+            "role_type" : "admin"
+        },
+        {
+            "name" : "Sub Admin",
+            "short_code" : "SUBAD",
+            "role_type" : "sub-admin"
+        },
+        {
+            "name" : "Teacher",
+            "short_code" : "TCH",
+            "role_type" : "sub-admin"
+        },
+        {
+            "name" : "Content Provider",
+            "short_code" : "CP",
+            "role_type" : "sub-admin"
+        },
+        {
+            "name" : "Student",
+            "short_code" : "STU",
+            "role_type" : "student"
+        }
+    ]
+}

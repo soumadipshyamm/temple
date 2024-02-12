@@ -1,0 +1,103 @@
+{
+    "boards": [
+        {
+            "name": "BOARD OF INTERMEDIATE EDUCATION",
+            "initial_name":"",
+            "state": "ANDHRA PRADESH",
+            "address": "VIJAYAWADA, D. No. : 48-18-2/A, Nagarjunanagar,Opp. NTR Health University,Vijayawada-8,FAX: 0866-2970056",
+            "website": "www.bieap.gov.in",
+            "email": "bie.andhra@ap.gov.in",
+            "is_active" : true
+        },
+        {
+            "name": "BIHAR SCHOOL EXAMINATION BOARD",
+            "initial_name":"",
+            "state": "BIHAR",
+            "address": "Budh Marg,Patna-800 001,FAX : 0612-2264775",
+            "website": "www.biharboard.net.in",
+            "email": "info@biharboardnet.in",
+            "is_active" : true
+        },
+        {
+            "name": "BIHAR BOARD OF OPEN SCHOOLING & EXAMINATION",
+            "initial_name":"",
+            "state": "BIHAR",
+            "address": "Budh Marg , Patna-800001",
+            "website": "www.bbose.org.in",
+            "email": "info@bbose.org.in",
+            "is_active" : true
+        },
+        {
+            "name": "BIHAR STATE MADRASA EDUCATION BOARD",
+            "initial_name":"",
+            "state": "BIHAR",
+            "address": "5, Vidyapati Marg,Patana-800 001, Fax :- 0612-2232459",
+            "website": "www.bsmeb.org",
+            "email": "info@bsmeb.org",
+            "is_active" : true
+        },
+        {
+            "name": "COUNCIL OF HIGHER SECONDARY EDUCATION",
+            "initial_name":"",
+            "state": "MANIPUR",
+            "address": "Babupara, Imphal-795001,Phone No. 9436203535",
+            "website": "www.cohsem.nic.in",
+            "email": "secy.cohsem-mn@nic.in",
+            "is_active" : true
+        },
+        {
+            "name": "UTTRAKHAND MADRASA EDUCATION BOARD SHIKSHA PARISHAD",
+            "initial_name":"",
+            "state": "UTTARAKHAND",
+            "address": "Minority Welfare Building, B- Block,Shaheed Bhagat Singh Colony,Adhoiwala, Dehradun-248001 (Uttarakhand)",
+            "website": "www.ukmadarsaboard.org.in",
+            "email": "ukmadarsaboard@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "WEST BENGAL BOARD OF SECONDARY EDUCATION",
+            "initial_name":"WBBSE",
+            "state": "WEST BENGAL",
+            "address": "Nivedita Bhawan, Block DJ-8, Sect. II,Salt Lake City, Kolkatta-700091,Fax no. 033- 2321-3812, Telefax: 033 -2321-3812",
+            "website": "www.wbchse.nic.in",
+            "email": "wbbse05@yahoo.co.in / ds.acad.wbbse@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "WEST BENGAL COUNCIL OF HIGHER SECONDARY EDUCATION",
+            "initial_name":"WBCHSE",
+            "state": "WEST BENGAL",
+            "address": "Vidya Sagar Bhavan,9/2,D.J.Block, Sector-II,Salt Lake, Kolkata 700091",
+            "website": "www.wbchse.nic.in",
+            "email": "wbcouncil_hse@vsnl.net.in",
+            "is_active" : true
+        },
+        {
+            "name": "WEST BENGAL BOARD OF MADRASAH EDUCATION",
+            "initial_name":"WBBME",
+            "state": "WEST BENGAL",
+            "address": "Begum Rokaiya Bhavan 19 Haji Md. Mohsin Square, Kolkata – 700016,Fax: 033-22497774/22497773",
+            "website": "www.wbbme.org",
+            "email": "president-wbbme@yahoo.com /  wbcchse@gmail.com",
+            "is_active" : true
+        },
+        {
+            "name": "THE WEST BENGAL COUNCIL OF RABINDRA OPEN SCHOOLING",
+            "initial_name":"WBCROS",
+            "state": "WEST BENGAL",
+            "address": "Bikash Bhavan (2nd floor, East Block) Bidhannagar, Kolkata- 700091,Tele Fax: 033-23345199, 23213261",
+            "website": "www.twbcros.org",
+            "email": "",
+            "is_active" : true
+        },
+        {
+            "name": "WEST BENGAL STATE COUNCIL OF TECHNICAL & VOCATIONAL EDUCATION & SKILL DEVELOPMENT",
+            "initial_name":"WBSCT&VE&SD",
+            "state": "WEST BENGAL",
+            "address": "Karigori Bhavan, 5th floor, Plot-B/7, Action Area-III, Newtown, Rajarhat, Kolkata-700160",
+            "website": "www.wbscvet.nic.in",
+            "email": "",
+            "is_active" : true
+        }
+    ]
+}

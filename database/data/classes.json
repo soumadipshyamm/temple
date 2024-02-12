@@ -1,0 +1,64 @@
+{
+    "classes": [
+        {
+            "name": "One",
+            "roman": "I",
+            "is_active" : true
+        },
+        {
+            "name": "Two",
+            "roman": "II",
+            "is_active" : true
+        },
+        {
+            "name": "Three",
+            "roman": "III",
+            "is_active" : true
+        },
+        {
+            "name": "Four",
+            "roman": "IV",
+            "is_active" : true
+        },
+        {
+            "name": "Five",
+            "roman": "V",
+            "is_active" : true
+        },
+        {
+            "name": "Six",
+            "roman": "VI",
+            "is_active" : true
+        },
+        {
+            "name": "Seven",
+            "roman": "VII",
+            "is_active" : true
+        },
+        {
+            "name": "Eight",
+            "roman": "VIII",
+            "is_active" : true
+        },
+        {
+            "name": "Nine",
+            "roman": "IX",
+            "is_active" : true
+        },
+        {
+            "name": "Ten",
+            "roman": "X",
+            "is_active" : true
+        },
+        {
+            "name": "Eleven",
+            "roman": "XI",
+            "is_active" : true
+        },
+        {
+            "name": "Twelve",
+            "roman": "XII",
+            "is_active" : true
+        }
+    ]
+}
